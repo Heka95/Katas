@@ -1,13 +1,13 @@
-﻿
+
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29215.179
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BurgerMachine", "BurgerMachine\BurgerMachine.csproj", "{0D8C044F-84E2-465F-A310-44A789F80A70}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BurgerMachine", "BurgerMachine\BurgerMachine.csproj", "{0D8C044F-84E2-465F-A310-44A789F80A70}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BurgerMachine.Tests", "BurgerMachine.Tests\BurgerMachine.Tests.csproj", "{76A49CD2-4CFA-4E63-994F-ADF16951D349}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BurgerMachine.Tests", "BurgerMachine.Tests\BurgerMachine.Tests.csproj", "{76A49CD2-4CFA-4E63-994F-ADF16951D349}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BurgerMachineBoard", "BurgerMachineBoard\BurgerMachineBoard.csproj", "{97D1D17F-03F8-4B03-9CDF-DE13A0544B7E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BurgerMachineBoard", "BurgerMachineBoard\BurgerMachineBoard.csproj", "{97D1D17F-03F8-4B03-9CDF-DE13A0544B7E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

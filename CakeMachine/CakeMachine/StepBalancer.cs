@@ -9,7 +9,7 @@ namespace CakeMachine
 {
     public class StepBalancer : IDisposable
     {
-        private bool _isDisposed = false;
+        private bool _isDisposed;
         private readonly int _maxConcurrentWorking;
         private readonly string _balancingActionName;
         private readonly StepDefinition stepDefinition;

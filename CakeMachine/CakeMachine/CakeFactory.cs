@@ -11,7 +11,7 @@ namespace CakeMachine
 {
     public class CakeFactory : IDisposable
     {
-        private bool _isDisposed = false;
+        private bool _isDisposed;
         private readonly SystemTimer _notificationTimer = new SystemTimer();
         private readonly List<StepBalancer> _balancers = new List<StepBalancer>();
         private long _createdCakeCount;
